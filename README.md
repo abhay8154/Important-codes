@@ -1,2 +1,4 @@
 # Important-codes
-These are chunks of codes and material that can be used frequently for several applications
+**My personal repository for reference**  
+
+Includes *Gradient boosting techniques (GBM), XGBoost, hyperparameter tuning* and several other codes to be used for different projects.
